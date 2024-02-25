@@ -6,14 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-// echo "\"hello";
-// echo 'hello';
-$s="amine";
-// echo "hello $s";
-// echo 'hello $s';
-$var="what did you mean ";
-echo addslashes($var);
-?>
+
 </body>
 </html>
